@@ -1,14 +1,14 @@
 {
-  "name": "winston",
+  "name": "@mobilefuel/winston",
   "description": "A multi-transport async logging library for Node.js",
   "version": "1.1.0",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "maintainers": [
-    "indexzero <charlie@nodejitsu.com>"
+    "Eran Davidi <eran.davidi@perion.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/winstonjs/winston.git"
+    "url": "https://github.com/erandavidi/winston.git"
   },
   "keywords": [
     "logging",
